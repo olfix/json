@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "status": 1,
+      "status": 0,
       "redirect_url": "",
       "privacy_policy_url": "https://sites.google.com/view/solodroid-stream-privacy-policy",
 	  "email_feedback_and_report": "report.solodroid@gmail.com",
