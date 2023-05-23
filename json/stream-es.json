@@ -1,0 +1,246 @@
+{
+   "apps": [
+      {
+         "status": 1,
+         "redirect_url": "",
+         "privacy_policy_url": "https://sites.google.com/view/diet-and-exercise-tips-privacy/",
+         "email_feedback_and_report": "launarawiwik@gmail.com",
+         "show_related_channels": true,
+         "enable_rtl_mode": false,
+         "enable_exit_dialog": true,
+         "enable_app_protection": false,
+         "enable_vpn_access": false,
+         "enable_dark_mode_as_default_theme": false,
+         "landscape_mode_as_default_player_orientation": false,
+         "youtube_api_key": "AIzaSyCbehD6DCeDZHaGlXXXXXXXXXXXXXXXXX",
+         "base64_license_key": ""
+      }
+   ],
+   "ads": [
+      {
+         "ad_status": 1,
+         "main_ad": "fan",
+         "backup_ad": "admob",
+         "admob_banner_unit_id": "ca-app-pub-6473325424847150/8940362384",
+         "admob_interstitial_unit_id": "ca-app-pub-6473325424847150/9626758092",
+         "admob_native_unit_id": "ca-app-pub-6473325424847150/3117228050",
+         "admob_app_open_unit_id": "ca-app-pub-6473325424847150/7627280718",
+         "ad_manager_banner_unit_id": "/6499/example/banner",
+         "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+         "ad_manager_native_unit_id": "/6499/example/native",
+         "ad_manager_app_open_unit_id": "/6499/example/app-open",
+         "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1603365016753286_1603365253419929",
+         "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1603365016753286_1603365296753258",
+         "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1603365016753286_1603423003414154",
+         "startapp_app_id": "0",
+         "unity_game_id": "4089993",
+         "unity_banner_placement_id": "banner",
+         "unity_interstitial_placement_id": "video",
+         "applovin_banner_unit_id": "0",
+         "applovin_interstitial_unit_id": "0",
+         "applovin_native_manual_unit_id": "0",
+         "applovin_open_ad_unit_id": "0",
+         "applovin_banner_zone_id": "0",
+         "applovin_interstitial_zone_id": "0",
+         "ironsource_app_key": "85460dcd",
+         "ironsource_banner_id": "DefaultBanner",
+         "ironsource_interstitial_id": "DefaultInterstitial",
+         "interstitial_ad_interval": 3,
+         "native_ad_index_list": 3,
+         "native_ad_index_grid2": 2,
+         "native_ad_index_grid3": 6,
+         "native_ad_interval_list": 6,
+         "native_ad_interval_grid2": 7,
+         "native_ad_interval_grid3": 10,
+         "native_ad_style": "medium",
+         "native_ad_channel_details_position": "top",
+         "show_banner_ad_home": false,
+         "show_banner_ad_channel_details": false,
+         "show_banner_ad_category_details": true,
+         "show_banner_ad_search": true,
+         "show_interstitial_ad_channel_list": true,
+         "show_interstitial_ad_channel_details": true,
+         "show_native_ad_channel_list": true,
+         "show_native_ad_channel_details": true,
+         "show_open_ad_on_app_start": true,
+         "show_open_ad_on_app_resume": true
+      }
+   ],
+   "categories": [
+      {
+         "id": 1,
+         "name": "News",
+         "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/news.png"
+      },
+      {
+         "id": 2,
+         "name": "Entertainment",
+         "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/entertainment.png"
+      },
+      {
+         "id": 3,
+         "name": "Religion",
+         "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/religion.png"
+      },
+      {
+         "id": 4,
+         "name": "Regional",
+         "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/regional.png"
+      },
+      {
+         "id": 5,
+         "name": "National",
+         "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/national.png"
+      },
+      {
+         "id": 6,
+         "name": "World",
+         "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/world.png"
+      }
+   ],
+   "channels": [
+      {
+         "id": 1,
+         "category": "Entertainment, National",
+         "title": "Deporte en directo",
+         "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVX9I0y45hUXHm_8PI53K1vEkiFmoPj9ONMiuqN35NfcBLw6l_izRR1ktHBv3GaRddQ3BZDkbkmgHbxq_O8J8dVthXyfqorglXT1hvezPvp_QwdQ57xeEcuwgv0ulHj4v_vNuQanW-_fSqdiJZHylLdDUTrtbfO2eltusvKk7xDDKhg6LSJXnvL9QO/s320/live-sport-spanish-oranye.jpg",
+         "description": "Deporte en Vivo Presentado por E Trade Stock",
+         "streaming_url": "https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd",
+         "user_agent": ""
+      },
+      {
+         "id": 2,
+         "category": "Entertainment, National",
+         "title": "Deporte en directo",
+         "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsScJvNbiJwakYPlZyFDaa_eB_x1WJwY_6yvUMt3lv_fWyHhHicpRahRe42_WZD8-kqTu9VId1cWEkMgqFxyVzFnZh7lNAGETSEt431EzSpIq52CWDhHt4fQrgwOQnbbZWik2IQ6SMF7AFcCIaC-gZWJidLeVFyDtgDMlcwu79B5gv8F4_0VikZjyi/s320/live-sport-spanish-ungu.jpg",
+         "description": "Deporte en Vivo Presentado por E Trade Stock",
+         "streaming_url": "https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8",
+         "user_agent": ""
+      },
+      {
+         "id": 3,
+         "category": "Entertainment, National",
+         "title": "Deporte en directo",
+         "image": "https://i.pinimg.com/736x/2a/21/77/2a217720d819c72ffe64d9672733db0e.jpg",
+         "description": "Deporte en Vivo Presentado por E Trade market",
+         "streaming_url": "https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8",
+         "user_agent": ""
+      },
+      {
+         "id": 4,
+         "category": "Entertainment, National",
+         "title": "Deporte en directo",
+         "image": "https://cdn140.picsart.com/266501424003202.jpg?type=webp&to=crop&r=256",
+         "description": "Deporte en Vivo Presentado por market trade app",
+         "streaming_url": "https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8",
+         "user_agent": ""
+      },
+      {
+         "id": 5,
+         "category": "Regional",
+         "title": "Deporte en directo",
+         "image": "https://cdn130.picsart.com/368121215062201.jpg?type=webp&to=min&r=1024",
+         "description": "Deporte en Vivo Presentado por market trade app",
+         "streaming_url": "https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8",
+         "user_agent": ""
+      },
+      {
+         "id": 6,
+         "category": "News, National",
+         "title": "Deporte en directo",
+         "image": "https://wallpaperaccess.com/full/1249019.jpg",
+         "description": "Deporte en vivo presentado por la aplicación Market Helper",
+         "streaming_url": "https://linear-259.frequency.stream/dist/vix/259/hls/master/playlist.m3u8",
+         "user_agent": ""
+      },
+      {
+         "id": 7,
+         "category": "Religion",
+         "title": "Deporte en directo",
+         "image": "https://static.vecteezy.com/system/resources/previews/019/942/990/original/colorful-football-soccer-ball-with-color-paint-isolated-on-transparent-background-png.png",
+         "description": "Deporte en vivo presentado por la aplicación Market Helper",
+         "streaming_url": "https://linear-452.frequency.stream/452/hls/master/playlist.m3u8",
+         "user_agent": ""
+      },
+      {
+         "id": 8,
+         "category": "National",
+         "title": "Deporte en directo",
+         "image": "https://i.pinimg.com/originals/a2/31/fb/a231fb44def95398d5854de89b6fe9da.jpg",
+         "description": "Deporte en vivo presentado por la aplicación e trade stock",
+         "streaming_url": "https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8",
+         "user_agent": ""
+      },
+      {
+         "id": 9,
+         "category": "Religion, World",
+         "title": "Deporte en directo",
+         "image": "https://cdn130.picsart.com/304779613088211.png",
+         "description": "Deporte en vivo presentado por la aplicación e trade stock",
+         "streaming_url": "https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8",
+         "user_agent": ""
+      },
+      {
+         "id": 10,
+         "category": "Entertainment, National",
+         "title": "Deporte en directo",
+         "image": "https://img.freepik.com/premium-photo/world-soccer-championship-qatar-2022_692702-7284.jpg",
+         "description": "Deporte en vivo presentado por la aplicación e trade stock",
+         "streaming_url": "https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd ",
+         "user_agent": ""
+      },
+      {
+         "id": 11,
+         "category": "Entertainment, News, National",
+         "title": "Deporte en directo",
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCQ-dRNRlCOzWxt2ki9MKyREF6kRVCcy0gfhJbatLwPJV_s-jB2H1hrkdhifWrSjlsVY&usqp=CAU",
+         "description": "Deporte en vivo presentado por la aplicación e trade stock",
+         "streaming_url": "https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8",
+         "user_agent": ""
+      },
+      {
+         "id": 12,
+         "category": "News",
+         "title": "Deporte en directo",
+         "image": "https://i.pinimg.com/736x/95/1c/1e/951c1edb585c0d3ae44ea382eeb11d27.jpg",
+         "description": "Deporte en vivo presentado por la aplicación e trade stock",
+         "streaming_url": "https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8",
+         "user_agent": ""
+      },
+      {
+         "id": 13,
+         "category": "Entertainment, National",
+         "title": "Deporte en directo",
+         "image": "https://garden.spoonflower.com/c/9568838/p/f/m/M644gF3tD8AIDChXn0YiIn8Ixvavi8Lyp7-2QGmqC01wSVgsibw/Eat.%20Sleep.%20Soccer%20-%20womens%2Fgirl%20soccer%20wholecloth%20in%20grey%20-%20patchwork%20sports%20-%20LAD19.jpg",
+         "description": "Deporte en vivo presentado por la aplicación Market Helper",
+         "streaming_url": "https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd",
+         "user_agent": ""
+      },
+      {
+         "id": 14,
+         "category": "World, News",
+         "title": "CBS News",
+         "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/cbsn.png",
+         "description": "Deporte en vivo presentado por la aplicación Market Helper",
+         "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/cbsn.mp4",
+         "user_agent": ""
+      },
+      {
+         "id": 15,
+         "category": "News, National",
+         "title": "CNN Indonesia",
+         "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/cnn.png",
+         "description": "Deporte en vivo presentado por la aplicación Market Helper",
+         "streaming_url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8",
+         "user_agent": ""
+      }
+   ],
+   "more_apps": [
+      {
+         "id": 1,
+         "title": "More Apps",
+         "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/thumbnail.png",
+         "url": "https://play.google.com/store/apps/developer?id=Gunoras"
+      }
+   ]
+}
