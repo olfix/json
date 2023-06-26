@@ -1,0 +1,100 @@
+{
+   "apps": [
+      {
+         "status": 1,
+         "redirect_url": "",
+         "privacy_policy_url": "https://sites.google.com/view/solodroid-stream-privacy-policy",
+         "email_feedback_and_report": "yourmail@gmail.com",
+         "show_related_channels": true,
+         "enable_rtl_mode": false,
+         "enable_exit_dialog": true,
+         "enable_app_protection": false,
+         "enable_vpn_access": false,
+         "enable_dark_mode_as_default_theme": false,
+         "landscape_mode_as_default_player_orientation": false,
+         "youtube_api_key": "AIzaSyCbehD6DCeDZHaGlXXXXXXXXXXXXXXXXX",
+         "base64_license_key": ""
+      }
+   ],
+   "ads": [
+      {
+         "ad_status": 0,
+         "main_ad": "admob",
+         "backup_ad": "none",
+         "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+         "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+         "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+         "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+         "ad_manager_banner_unit_id": "/6499/example/banner",
+         "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+         "ad_manager_native_unit_id": "/6499/example/native",
+         "ad_manager_app_open_unit_id": "/6499/example/app-open",
+         "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
+         "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
+         "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+         "startapp_app_id": "0",
+         "unity_game_id": "4089993",
+         "unity_banner_placement_id": "banner",
+         "unity_interstitial_placement_id": "video",
+         "applovin_banner_unit_id": "0",
+         "applovin_interstitial_unit_id": "0",
+         "applovin_native_manual_unit_id": "0",
+         "applovin_open_ad_unit_id": "0",
+         "applovin_banner_zone_id": "0",
+         "applovin_interstitial_zone_id": "0",
+         "ironsource_app_key": "85460dcd",
+         "ironsource_banner_id": "DefaultBanner",
+         "ironsource_interstitial_id": "DefaultInterstitial",
+         "interstitial_ad_interval": 3,
+         "native_ad_index_list": 3,
+         "native_ad_index_grid2": 2,
+         "native_ad_index_grid3": 6,
+         "native_ad_interval_list": 6,
+         "native_ad_interval_grid2": 7,
+         "native_ad_interval_grid3": 10,
+         "native_ad_style": "medium",
+         "native_ad_channel_details_position": "top",
+         "show_banner_ad_home": false,
+         "show_banner_ad_channel_details": false,
+         "show_banner_ad_category_details": true,
+         "show_banner_ad_search": true,
+         "show_interstitial_ad_channel_list": true,
+         "show_interstitial_ad_channel_details": true,
+         "show_native_ad_channel_list": true,
+         "show_native_ad_channel_details": true,
+         "show_open_ad_on_app_start": true,
+         "show_open_ad_on_app_resume": true
+      }
+   ],
+   "categories": [
+      {
+         "id": 1,
+         "name": "Movies",
+         "image": "https://e1.pngegg.com/pngimages/974/699/png-clipart-movies-and-popcorn-folder-icon-movies-thumbnail.png"
+      },
+      {
+         "id": 2,
+         "name": "Series",
+         "image": "https://www.freeiconspng.com/thumbs/movie-icon/movie-icon-9.png"
+      }
+   ],
+   "channels": [
+      {
+         "id": 1,
+         "category": "Movies",
+         "title": "SCTV",
+         "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/sctv.png",
+         "description": "Under Construction",
+         "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/aa.mp4",
+         "user_agent": ""
+      }
+   ],
+   "more_apps": [
+      {
+         "id": 1,
+         "title": "More Apps",
+         "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/thumbnail.png",
+         "url": "https://aliendro.id/solodroid-guide-json-android-news-app-191"
+      }
+   ]
+}
